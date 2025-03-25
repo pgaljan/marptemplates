@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="eNEz6VXK-O0R082OuyOM" name="Page-1">
+        <mxGraphModel dx="1130" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="25" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="920" y="620" as="sourcePoint"/>
+                        <mxPoint x="425" y="620" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="26" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="680" y="830" as="sourcePoint"/>
+                        <mxPoint x="680" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="190" y="640" width="490" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="html=1;fillColor=none;strokeColor=none;shadow=0;fontSize=21;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;verticalAlign=top;" parent="27" vertex="1">
+                    <mxGeometry width="445" height="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="FigJam, Whiteboard, Miro, Lucid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="27" vertex="1">
+                    <mxGeometry x="45" y="40" width="355" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Digital Whiteboards&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="27" vertex="1">
+                    <mxGeometry x="45" y="10" width="355" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Good-to-excellent collaborative authoring use cases (ideation, kanban, etc)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Some allow incoming/outgoing API calls&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Very competitive market&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;No meaningully structured output (single pdf, docx, etc)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Highly mobile users - many with 2-3 in use&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Easy onboarding&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Bottom-up adoption&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="27" vertex="1">
+                    <mxGeometry x="37.5" y="60" width="452.5" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="720" y="340" width="370" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="VSCode, CurveNote, Corca, Overleaf" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="28" vertex="1">
+                    <mxGeometry x="7.5" y="30" width="355" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Technical/Academic/Scientific&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="28" vertex="1">
+                    <mxGeometry x="7.5" width="355" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Narrowly use-case driven&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Consumer-accessible&lt;/li&gt;&lt;li&gt;Collaborator influenced&lt;/li&gt;&lt;li&gt;Highly mobile&lt;/li&gt;&lt;li&gt;Heavily fragmented&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="28" vertex="1">
+                    <mxGeometry y="50" width="370" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="702.5" y="650" width="370" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Jira, Trello, Asana, Notion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="29" vertex="1">
+                    <mxGeometry x="7.5" y="30" width="355" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Project Management&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="29" vertex="1">
+                    <mxGeometry x="7.5" width="355" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;ul&gt;&lt;li&gt;&lt;li&gt;Bad-to-Excellent authoring, visualization &amp;amp; reporting&lt;/li&gt;&lt;li&gt;Heavy learning curve for structured output&lt;/li&gt;&lt;li&gt;Low consumer accessibility&lt;/li&gt;&lt;li&gt;Top-down adoption&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="29" vertex="1">
+                    <mxGeometry y="50" width="370" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="group" parent="1" vertex="1" connectable="0">
+                    <mxGeometry x="220" y="340" width="440" height="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="OneNote, Obsidian, Word, TrilliumNext, Confluence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="30" vertex="1">
+                    <mxGeometry x="8.91891891891892" y="30" width="422.1621621621622" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Collaborative Notetaking&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="30" vertex="1">
+                    <mxGeometry x="8.91891891891892" width="422.1621621621622" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Individual focused, often a personal choice&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Bad-to-Decent collaborative authoring&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Structure, hierarchical, and relational display are secondary use cases&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Limited structured output&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Highly fractured market&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Bottom-up adoption&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="30" vertex="1">
+                    <mxGeometry y="50" width="440" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Adoption Friction" style="endArrow=classic;html=1;fontSize=18;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="350" y="940" as="sourcePoint"/>
+                        <mxPoint x="940" y="940" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

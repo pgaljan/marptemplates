@@ -13,50 +13,14 @@ theme       : atlas
 ![bg right:33% brightness:0.7](./img/pexels-divinetechygirl-1181365.jpg)
 
 ---
+# Market Space
 
-
-# Whiteboard Tools
-### FigJam, Whiteboard, Miro, Lucid
-- Good-to-excellent collaborative authoring use cases (ideation, kanban, etc)
-- Some allow incoming/outgoing API calls
-- Very competitive market, 20+ entrants, all consumer-accessible
-- No meaningully structured output (single pdf, docx, etc)
-- Highly mobile users - many will user 2-3 options
-- Easy onboarding
-- Bottom-up adoption
+![bg right:75% w:95%](./img/altasMarketSpace2.png)
 
 ---
 
-# Collaborative Notetaking
-### OneNote, Obsidian, Word, TrilliumNext, Confluence
-- Individual focused, often a personal choice
-- Bad-to-Decent collaborative authoring
-- Structure, hierarchical, and relational display are secondary use cases
-- Structured output is limited to graph visualization & API (TrilliumNext & Obsidian)
-- Highly fractured market
-- Bottom-up adoption
-
----
-
-# Project Management
-### Jira, Trello, Asana, Notion
-- Bad-to-Excellent authoring, visualization & reporting
-- Heavy learning curve for structured output
-- Low consumer accessibility
-- Top-down adoption
-
----
-# Technical/Academic/Scientific 
-### VSCode, CurveNote, Corca, Overleaf
-- Narrowly use-case driven
-- Consumer-accessible
-- Collaborator influenced
-- Highly mobile
-- Heavily fragmented
-
-
----
 # Atlas UI Prototype
+## https://dev.atlasflow.co
 ![](./img/structure.png)
 
 ---
@@ -117,12 +81,11 @@ theme       : atlas
 
 ---
 
-# Architecture
-![bg vertical right:60% w:90% ](./img/atlasarch.png)
+![bg ](./img/arch.png)
 
 ---
 # Alternative Approaches
-- Plugin:  build a plugin for existing whiteboard applications
+- Plugin:  build a plugin for existing platforms
   - Platform captivity
   - Opaque user patterns
   - Not much less expensive
