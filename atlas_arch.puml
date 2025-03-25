@@ -1,0 +1,49 @@
+@startuml
+!include <logos/aws-ec2>
+!include <aws/Compute/AmazonEC2/AmazonEC2>
+    rectangle github as "Atlas Repo"
+    rectangle Snyk as "Snyk"
+
+rectangle aws as "EC2"{
+
+rectangle frontend as "React" {
+    rectangle redux as "Redux Toolkit"
+    rectangle tailwind as "Tailwind CSS"
+    rectangle nextjs as "NextJS"
+    rectangle NextAuthjs as "NextAuthjs"
+    rectangle Markmap as "Markmap"
+}
+rectangle security as "Security" {
+    rectangle access as "Access Control"
+    rectangle auth as "OAuth2/JWT"
+    rectangle encryption as "Encryption"
+    rectangle audit as "Audit"
+    rectangle Markmap as "Markmap"
+}
+
+rectangle integrations as "Integrations" {
+    rectangle webhooks as "Webhooks"
+    rectangle keymgmt as "API Key Management"
+}
+
+rectangle backend as "backend" {
+    rectangle NestJS as "NestJS"
+    rectangle prisma as "PrismaORM"
+    rectangle cache as "Redis"
+    rectangle postgres as "Postgres"
+}
+
+}
+access --> NextAuthjs
+auth --> NextAuthjs
+nextjs --> NestJS
+NestJS --> prisma
+prisma --> postgres
+NestJS --> cache
+encryption --> postgres
+integrations --> NestJS
+Snyk -right-> github
+github -right-> aws
+
+
+@enduml

@@ -1,4 +1,4 @@
-/* @theme weber */
+/* @theme dell */
 
 /*
   ============================================
@@ -22,11 +22,11 @@
 
 /* ---------------- TITLE PAGE ---------------- */
 section.titlepage {
-  background-color: rgb(64, 81, 93);
+  background-color: #0672CB;
 }
 
 section.titlepage .title {
-  color: hsl(225, 4%, 82%) !important;
+  color: #F5F6F7 !important;
   font-kerning: auto;
   text-align: left !important;
 }
@@ -71,7 +71,7 @@ section.titlepage strong {
 :root {
   /* font-family: 'Dolly';
   font-family: 'Fira Sans Light'; */
-  font-family: 'Noto Sans SC', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: initial;
   color: #f4f6f8;
   /* background-color: rgba(81, 100, 113, 0.468); */
