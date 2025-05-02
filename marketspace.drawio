@@ -1,0 +1,177 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2" pages="2">
+  <diagram id="eNEz6VXK-O0R082OuyOM" name="Page-1">
+    <mxGraphModel dx="1953" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="27" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-590" y="640" width="490" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="html=1;fillColor=none;strokeColor=none;shadow=0;fontSize=21;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;verticalAlign=top;" parent="27" vertex="1">
+          <mxGeometry width="445" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="FigJam, Whiteboard, Miro, Lucid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="27" vertex="1">
+          <mxGeometry x="45" y="40" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Digital Whiteboards&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="27" vertex="1">
+          <mxGeometry x="86.25" y="10" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Good-to-excellent collaborative authoring use cases (ideation, kanban, etc)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Some allow incoming/outgoing API calls&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Very competitive market&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;No meaningully structured output (single pdf, docx, etc)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Highly mobile users - many with 2-3 in use&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Easy onboarding&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Bottom-up adoption&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="27" vertex="1">
+          <mxGeometry x="37.5" y="50" width="452.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="27" vertex="1">
+          <mxGeometry x="10" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-130" y="440" width="370" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="VSCode, CurveNote, Corca, Overleaf, Notable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="28" vertex="1">
+          <mxGeometry x="7.5" y="30" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Technical/Academic/Scientific&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="28" vertex="1">
+          <mxGeometry x="7.5" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Narrowly use-case driven&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Consumer-accessible&lt;/li&gt;&lt;li&gt;Collaborator influenced&lt;/li&gt;&lt;li&gt;Flexible, but not necessarily mobile&lt;/li&gt;&lt;li&gt;Heavily fragmented&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="28" vertex="1">
+          <mxGeometry x="-7.5" y="40" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="190" y="160" width="370" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="Jira, Trello, Asana, Notion, M365, SFDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="29" vertex="1">
+          <mxGeometry x="7.5" y="30" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;ERP/Project Management&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="29" vertex="1">
+          <mxGeometry x="7.5" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="&lt;ul&gt;&lt;li&gt;&lt;li&gt;Bad-to-Excellent authoring, visualization &amp;amp; reporting&lt;/li&gt;&lt;li&gt;Process-specific&lt;/li&gt;&lt;li&gt;Heavy learning curve for structured output&lt;/li&gt;&lt;li&gt;Low consumer accessibility&lt;/li&gt;&lt;li&gt;Top-down adoption&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="29" vertex="1">
+          <mxGeometry x="-7.5" y="40" width="370" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-510" y="280" width="440" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="OneNote, Obsidian, Word, TrilliumNext, Confluence, Joplin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="30" vertex="1">
+          <mxGeometry x="8.91891891891892" y="30" width="422.1621621621622" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Collaborative Notetaking&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="30" vertex="1">
+          <mxGeometry x="8.91891891891892" width="422.1621621621622" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Individual focused, often a personal choice&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Bad-to-Decent collaborative authoring&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Structure, hierarchical, and relational display are secondary use cases&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Limited structured output&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Highly fractured market&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Immobile, locked-in&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#000000&quot;&gt;Bottom-up adoption&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="30" vertex="1">
+          <mxGeometry y="60" width="440" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Adoption Friction&lt;/font&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6619047619047611;arrowSize=0.09024390243902466;rotation=-90;gradientColor=#660000;gradientDirection=east;strokeColor=none;fontColor=#FFFFFF;fontSize=25;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1050" y="520" width="880" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="Reporting &amp;amp; Structured Visualization" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6619047619047611;arrowSize=0.09024390243902466;rotation=0;gradientColor=#660000;gradientDirection=east;strokeColor=none;fontColor=#FFFFFF;fontSize=25;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-630" y="928" width="1255" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="&lt;div&gt;&lt;b&gt;Friction&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;1. Complexity&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. Cost&lt;/div&gt;&lt;div&gt;3. Collaborative Inertia&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="-900" y="480" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="Collaborative Authoring Toolsets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;fontColor=#660000;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="60" width="820" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D9cbtIh21heBlXSCFKlQ-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kMTpcGyhxE0lFS_FDUcw-57" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="202" y="696" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kMTpcGyhxE0lFS_FDUcw-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#660000;" parent="kMTpcGyhxE0lFS_FDUcw-57" vertex="1">
+          <mxGeometry x="1" y="-2" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kMTpcGyhxE0lFS_FDUcw-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHJva2Utd2lkdGg9IjAuMDAwMjQwMDAwMDAwMDAwMDAwMDMiIHN0cm9rZT0iIzY2MDAwMCIgdHJhbnNmb3JtPSJyb3RhdGUoOTApIiBmaWxsPSIjNjYwMDAwIiBkYXRhLW5hbWU9IkxheWVyIDEiIGlkPSJMYXllcl8xIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iODAwcHgiIHdpZHRoPSI4MDBweCI+JiN4YTsmI3hhOzxnIHN0cm9rZS13aWR0aD0iMCIgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIi8+JiN4YTsmI3hhOzxnIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIvPiYjeGE7JiN4YTs8ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxkZWZzPiA8c3R5bGU+LmNscy0xe2ZpbGw6bm9uZTt9LmNscy0ye2NsaXAtcGF0aDp1cmwoI2NsaXAtcGF0aCk7fTwvc3R5bGU+IDxjbGlwUGF0aCBpZD0iY2xpcC1wYXRoIj4gPHJlY3QgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0IiB5PSItMC4wNiIgY2xhc3M9ImNscy0xIi8+IDwvY2xpcFBhdGg+IDwvZGVmcz4gPHRpdGxlPmNvZGUtbWVyZ2U8L3RpdGxlPiA8ZyBjbGFzcz0iY2xzLTIiPiA8cGF0aCBkPSJNNywyMi40NWEzLjg4LDMuODgsMCwxLDEsMy44Ny0zLjg3QTMuODgsMy44OCwwLDAsMSw3LDIyLjQ1Wk03LDE2LjJhMi4zOCwyLjM4LDAsMSwwLDIuMzcsMi4zOEEyLjM5LDIuMzksMCwwLDAsNywxNi4yWiIvPiA8cGF0aCBkPSJNNyw5LjNhMy44OCwzLjg4LDAsMSwxLDMuODctMy44OEEzLjg4LDMuODgsMCwwLDEsNyw5LjNaTTcsMy4wNUEyLjM4LDIuMzgsMCwxLDAsOS4zOCw1LjQyLDIuMzgsMi4zOCwwLDAsMCw3LDMuMDVaIi8+IDxwYXRoIGQ9Ik0xNyw5LjNhMy44OCwzLjg4LDAsMSwxLDMuODgtMy44OEEzLjg4LDMuODgsMCwwLDEsMTcsOS4zWm0wLTYuMjVhMi4zOCwyLjM4LDAsMSwwLDIuMzgsMi4zN0EyLjM3LDIuMzcsMCwwLDAsMTcsMy4wNVoiLz4gPHBhdGggZD0iTTcsMTYuMmEuNzQuNzQsMCwwLDEtLjc1LS43NVY4LjU1YS43NS43NSwwLDAsMSwxLjUsMHY2LjlBLjc1Ljc1LDAsMCwxLDcsMTYuMloiLz4gPHBhdGggZD0iTTEzLDEzLjMzSDdhLjc1Ljc1LDAsMCwxLDAtMS41SDEzYTMuMTYsMy4xNiwwLDAsMCwzLjI5LTMuMjguNzUuNzUsMCwxLDEsMS41LDBBNC42MSw0LjYxLDAsMCwxLDEzLDEzLjMzWiIvPiA8L2c+IDwvZz4mI3hhOyYjeGE7PC9zdmc+;" parent="kMTpcGyhxE0lFS_FDUcw-57" vertex="1">
+          <mxGeometry x="5.6" y="5.45" width="44.55" height="44.55" as="geometry" />
+        </mxCell>
+        <mxCell id="kMTpcGyhxE0lFS_FDUcw-53" value="Atlas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#660000;" parent="kMTpcGyhxE0lFS_FDUcw-57" vertex="1">
+          <mxGeometry x="84" y="16.363636363636367" width="33.599999999999994" height="16.363636363636367" as="geometry" />
+        </mxCell>
+        <mxCell id="kMTpcGyhxE0lFS_FDUcw-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#660000;fillColor=#660000;" parent="1" vertex="1">
+          <mxGeometry x="175" y="680" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Broad document type support&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Object tagging&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Standard structured output&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Robust custom reporting&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Frictionless onboarding&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;15 minute learning curve&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="190" y="740" width="440" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GLcN_QY4rwWXxXEShaoT" name="Page-2">
+    <mxGraphModel dx="2071" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MlypxwIAatR4tXNdVxLx-33" value="Integrate" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=28;fontStyle=1;fontColor=#660000;" parent="1" vertex="1">
+          <mxGeometry x="220" y="110" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-31" value="Compete" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=28;fontStyle=1;fontColor=#660000;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="220" width="720" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-1" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-590" y="640" width="855" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-2" value="" style="html=1;fillColor=none;strokeColor=none;shadow=0;fontSize=21;fontColor=#FFFFFF;align=center;fontStyle=0;whiteSpace=wrap;rounded=0;verticalAlign=top;" parent="MlypxwIAatR4tXNdVxLx-1" vertex="1">
+          <mxGeometry width="445" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-3" value="FigJam, Whiteboard, Miro, Lucid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="MlypxwIAatR4tXNdVxLx-1" vertex="1">
+          <mxGeometry x="86.25" y="40" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-4" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Digital Whiteboards&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="MlypxwIAatR4tXNdVxLx-1" vertex="1">
+          <mxGeometry x="86.25" y="10" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="MlypxwIAatR4tXNdVxLx-1" vertex="1">
+          <mxGeometry x="10" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-7" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-130" y="440" width="370" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-8" value="VSCode, CurveNote, Corca, Overleaf, Notable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="MlypxwIAatR4tXNdVxLx-7" vertex="1">
+          <mxGeometry x="7.5" y="30" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-9" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Technical/Academic/Scientific&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="MlypxwIAatR4tXNdVxLx-7" vertex="1">
+          <mxGeometry x="7.5" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-11" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="190" y="160" width="370" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-12" value="Jira, Trello, Asana, Notion, M365, SFDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="MlypxwIAatR4tXNdVxLx-11" vertex="1">
+          <mxGeometry y="30" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-13" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;ERP/Project Management&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="MlypxwIAatR4tXNdVxLx-11" vertex="1">
+          <mxGeometry x="7.5" width="355" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-15" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-510" y="280" width="440" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-16" value="OneNote, Obsidian, Word, TrilliumNext, Confluence, Joplin" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1A1A1A;fontSize=15;fontStyle=2" parent="MlypxwIAatR4tXNdVxLx-15" vertex="1">
+          <mxGeometry x="8.91891891891892" y="30" width="422.1621621621622" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-17" value="&lt;font style=&quot;color: rgb(102, 0, 0);&quot;&gt;Collaborative Notetaking&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#660000);fontSize=18;fontStyle=1" parent="MlypxwIAatR4tXNdVxLx-15" vertex="1">
+          <mxGeometry x="8.91891891891892" width="422.1621621621622" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-19" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Adoption Friction&lt;/font&gt;" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6619047619047611;arrowSize=0.09024390243902466;rotation=-90;gradientColor=#660000;gradientDirection=east;strokeColor=none;fontColor=#FFFFFF;fontSize=25;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1050" y="520" width="880" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-20" value="Reporting &amp;amp; Structured Visualization" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.6619047619047611;arrowSize=0.09024390243902466;rotation=0;gradientColor=#660000;gradientDirection=east;strokeColor=none;fontColor=#FFFFFF;fontSize=25;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-630" y="928" width="1255" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MlypxwIAatR4tXNdVxLx-22" value="User Acquisition" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;fontColor=#660000;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="-390" y="60" width="820" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Izt_uwtgnx4lOvW9_8s0-1" value="" style="group" parent="1" connectable="0" vertex="1">
+          <mxGeometry x="267" y="696" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Izt_uwtgnx4lOvW9_8s0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#660000;" parent="Izt_uwtgnx4lOvW9_8s0-1" vertex="1">
+          <mxGeometry x="1" y="-2" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Izt_uwtgnx4lOvW9_8s0-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHJva2Utd2lkdGg9IjAuMDAwMjQwMDAwMDAwMDAwMDAwMDMiIHN0cm9rZT0iIzY2MDAwMCIgdHJhbnNmb3JtPSJyb3RhdGUoOTApIiBmaWxsPSIjNjYwMDAwIiBkYXRhLW5hbWU9IkxheWVyIDEiIGlkPSJMYXllcl8xIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iODAwcHgiIHdpZHRoPSI4MDBweCI+JiN4YTsmI3hhOzxnIHN0cm9rZS13aWR0aD0iMCIgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIi8+JiN4YTsmI3hhOzxnIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIvPiYjeGE7JiN4YTs8ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDxkZWZzPiA8c3R5bGU+LmNscy0xe2ZpbGw6bm9uZTt9LmNscy0ye2NsaXAtcGF0aDp1cmwoI2NsaXAtcGF0aCk7fTwvc3R5bGU+IDxjbGlwUGF0aCBpZD0iY2xpcC1wYXRoIj4gPHJlY3QgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0IiB5PSItMC4wNiIgY2xhc3M9ImNscy0xIi8+IDwvY2xpcFBhdGg+IDwvZGVmcz4gPHRpdGxlPmNvZGUtbWVyZ2U8L3RpdGxlPiA8ZyBjbGFzcz0iY2xzLTIiPiA8cGF0aCBkPSJNNywyMi40NWEzLjg4LDMuODgsMCwxLDEsMy44Ny0zLjg3QTMuODgsMy44OCwwLDAsMSw3LDIyLjQ1Wk03LDE2LjJhMi4zOCwyLjM4LDAsMSwwLDIuMzcsMi4zOEEyLjM5LDIuMzksMCwwLDAsNywxNi4yWiIvPiA8cGF0aCBkPSJNNyw5LjNhMy44OCwzLjg4LDAsMSwxLDMuODctMy44OEEzLjg4LDMuODgsMCwwLDEsNyw5LjNaTTcsMy4wNUEyLjM4LDIuMzgsMCwxLDAsOS4zOCw1LjQyLDIuMzgsMi4zOCwwLDAsMCw3LDMuMDVaIi8+IDxwYXRoIGQ9Ik0xNyw5LjNhMy44OCwzLjg4LDAsMSwxLDMuODgtMy44OEEzLjg4LDMuODgsMCwwLDEsMTcsOS4zWm0wLTYuMjVhMi4zOCwyLjM4LDAsMSwwLDIuMzgsMi4zN0EyLjM3LDIuMzcsMCwwLDAsMTcsMy4wNVoiLz4gPHBhdGggZD0iTTcsMTYuMmEuNzQuNzQsMCwwLDEtLjc1LS43NVY4LjU1YS43NS43NSwwLDAsMSwxLjUsMHY2LjlBLjc1Ljc1LDAsMCwxLDcsMTYuMloiLz4gPHBhdGggZD0iTTEzLDEzLjMzSDdhLjc1Ljc1LDAsMCwxLDAtMS41SDEzYTMuMTYsMy4xNiwwLDAsMCwzLjI5LTMuMjguNzUuNzUsMCwxLDEsMS41LDBBNC42MSw0LjYxLDAsMCwxLDEzLDEzLjMzWiIvPiA8L2c+IDwvZz4mI3hhOyYjeGE7PC9zdmc+;" parent="Izt_uwtgnx4lOvW9_8s0-1" vertex="1">
+          <mxGeometry x="5.6" y="5.45" width="44.55" height="44.55" as="geometry" />
+        </mxCell>
+        <mxCell id="Izt_uwtgnx4lOvW9_8s0-4" value="Atlas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontColor=#660000;" parent="Izt_uwtgnx4lOvW9_8s0-1" vertex="1">
+          <mxGeometry x="84" y="16.363636363636367" width="33.599999999999994" height="16.363636363636367" as="geometry" />
+        </mxCell>
+        <mxCell id="Izt_uwtgnx4lOvW9_8s0-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#660000;fillColor=#660000;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="25" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

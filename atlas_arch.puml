@@ -1,12 +1,11 @@
 @startuml
-title Atlas Architecture
 skinparam rectangleFontColor #660000
 skinparam classFontSize 41
 
 !include <logos/aws-ec2>
 !include <aws/Compute/AmazonEC2/AmazonEC2>
     rectangle github as "Atlas Repo"
-    rectangle Snyk as "Snyk"
+    rectangle Snyk as "Snyk"k
 
 rectangle aws as "EC2"{
 

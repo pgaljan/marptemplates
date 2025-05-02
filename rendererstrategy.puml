@@ -1,0 +1,26 @@
+@startjson
+{
+    "<color:purple><&bug></color>Markmap":[   
+            "<color:DarkGreen><&caret-top></color> Ease of initial implementation",
+            "<color:DarkRed><&caret-bottom></color> Configurability",
+            "<color:DarkRed><&caret-bottom></color> Community",
+            "<color:DarkRed><&caret-bottom></color> Mobile Support",
+            "<color:orange><b>?</b></color> Direct dev engagement"
+    ],
+    "Excalidraw":[
+            "<color:DarkGreen><&caret-top></color> Familiar, rich whiteboard",
+            "<color:DarkGreen><&caret-top></color> Community",
+                "<color:DarkGreen><&caret-top></color> Mobile Support",
+            "<color:orange><b>?</b></color> Complexity",
+            "<color:orange><b>?</b></color> Compute Cost"
+    ],
+    "D3.js" : "",
+    "Treant.js":"",
+    "Vega":"",
+    "Springy.js":"",
+    "Cytoscape.js":"",
+    "cola.js":""
+
+}
+
+@endjson

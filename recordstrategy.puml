@@ -1,0 +1,22 @@
+@startsalt
+title <color:660000>Potential Record Integrations
+{
+    {-
+         |  <b><color:660000>Integration   |  <b><color:660000>Use Case  |  <b><color:660000>Adjacent Products
+         |  <color:DarkGreen><&check></color> Quill   |  Rich Text  |  OneNote, Word, Confluence 
+         |  <color:DarkGreen><&caret-top></color> LaTeX   |  Math notation  |  CurveNote, Corca, Overleaf
+         |  <color:DarkGreen><&caret-top></color> markedjs   |  Markdown visualization  |  VSCode, Obsidian, Notion 
+         |  <color:DarkGreen><&caret-top></color> PlantUML   |  UML rendering  |  Modelio, Astah, LucidChart
+         |  <color:DarkGreen><&caret-top></color> code-server   |  Code linting  |  VSCode, Notepad++
+         |  <color:DarkGreen><&caret-top></color> Mermaid   |  Graph visualization  |  Gliffy, Visual Paradigm, VSCode
+         |  <color:DarkGreen><&caret-top></color> HTML Embed   |  Open Integration  |  SaaS platforms
+         |  <color:DarkRed><&caret-bottom></color> Asciidoc   |  Technical Authoring  |  GitBook, VSCode
+         |  <color:DarkRed><&caret-bottom></color> Viewstl   |  3D STL, OBJ Viewer  |  Autodesk, Mimics, KeyShot
+         |  <color:DarkRed><&caret-bottom></color> drawio   |  Visual Diagramming  |  Visio, VSCode 
+         |  <color:DarkRed><&caret-bottom></color> Sage Modeler   |  System Modeling |  Simulink, AnyLogic, Vensim
+         |  <color:DarkRed><&caret-bottom></color> reveal.js   |  Presentations  |  PowerPoint, Slides, Canva
+         |  <color:DarkRed><&caret-bottom></color> jspreadsheet   |  Spreadsheets  |  Excel, Sheets, Smartsheet, Airtable 
+    }
+}
+
+@endsalt

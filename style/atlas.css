@@ -27,6 +27,11 @@ h1 {
     color: #600;
     
 }
+.note {
+    font-size: .8rem;
+    color: white;
+    background-color: #660000;
+  }
 
 .columns {
     display: grid;
@@ -41,7 +46,7 @@ h1 {
 /* lead class: first slide in a section. Use h1 as header.
 Use: <!-- _class: lead --> */
 section.lead {
-    background-color: orangered;
+    background-color: #660000;
     text-align: center;
     color: white;
     padding-top: auto;

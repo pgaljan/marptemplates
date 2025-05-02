@@ -1,0 +1,105 @@
+@startuml
+
+stack {
+json "Prototype\n(1-5 MAU)" as Prototype {
+    "Markmap" : [
+        "<color:green><&check></color> WBS",
+        "<color:purple><&bug></color> Stable hierarchy",
+        "<color:green><&check></color> Backup Structure",
+        "<color:purple><&bug></color> Restore Structure",
+        "<color:green><&check></color> Quill Editor",
+        "<color:green><&check></color> Export Structure Elements",
+        "<color:darkorange><&wrench></color> Export Structure Document",
+        "<color:darkorange><&wrench></color> Save State"        
+
+        
+    ],
+    "Dashboard" : [
+        "<color:green><&check></color> Structure CRUD",
+        "<color:green><&check></color> Structure Card",
+        "<color:green><&check></color> Backup All Structures",
+        "<color:purple><&bug></color> Restore All Structures",
+        "<color:darkorange><&wrench></color> Catalog Carousel"
+    ],
+    "Admin Panel":[
+        "<color:darkorange><&wrench></color> User CRUD",
+        "<color:darkorange><&wrench></color> Invite System",
+        "<color:darkorange><&wrench></color> Structure Catalog"
+
+    ],
+    "Platform":[
+        "<color:green><&check></color> SSL",
+        "<color:green><&check></color> Single Sign-on",
+        "<color:darkorange><&wrench></color> Runbook",
+        "<color:green><&check></color> RBAC/ Feature Flags"
+    ]
+
+    }
+}
+
+stack {
+json "Restricted Preview\n(5-25 MAU)" as RestrictedPreview {
+     "Markmap" : [
+        " Bookmarks",        
+        "<color:darkblue><&pencil></color> Quill Tables",
+        "<color:darkblue><&pencil></color> markedjs",
+        "<color:darkblue><&pencil></color> picture export",
+        " reveal.js",
+        "<color:darkblue><&pencil></color> LaTeX",
+        "<color:darkblue><&pencil></color> PlantUML"
+
+
+        
+    ],
+    "Dashboard" : [
+        " Structure Sharing",  
+        " Structure Search"
+    ],
+    "Admin Panel":[
+        " User Metrics",
+        " Rate/Resource Limits"
+
+    ],
+    "Platform":[
+        " 3rd Party Pen Testing",
+        " Content Safety API",
+        " Platform Metrics",
+        " Alerting Framework",
+        " Test Automation"
+    ]
+    }
+}
+
+stack {
+json "Invite Preview\n(25-500 MAU)" as InvitePreview {
+     "Markmap" : [
+        " LLM Ingest",
+        " Asciidoc",
+        " Excalidoc renderer",
+        " Mermaid"
+    ],
+    "Dashboard" : [
+        " Iterative Improvements"  
+    ],
+    "Admin Panel":[
+        " Rebrand Toolkit"  
+    ],
+    "Platform":[
+        " Branding",
+        " Web Analytics",
+        " Cost Optimization",
+        " Automated Scaling",
+        " Payment Processing",
+        " 3rd Party Design Review",
+        " Regulatory Review",
+        " Business Plan",
+        " User Acquisition Plan",
+        " Incorporation Plan"
+    ]
+    }
+}
+
+
+Prototype -right-> RestrictedPreview
+RestrictedPreview -right-> InvitePreview
+@enduml
